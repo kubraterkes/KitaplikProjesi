@@ -1,0 +1,11 @@
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\bin\Debug\KitaplikProjesi.exe.config
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\bin\Debug\KitaplikProjesi.exe
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\bin\Debug\KitaplikProjesi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.Form1.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.exe
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\KitaplikProjesi\KitaplikProjesi\obj\Debug\KitaplikProjesi.pdb
